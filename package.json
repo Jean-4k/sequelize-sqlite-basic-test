@@ -1,0 +1,23 @@
+{
+  "name": "sequelize-sqlite-basic-test",
+  "version": "1.0.0",
+  "description": "Basic setup and test with sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jean-4k/sequelize-sqlite-basic-test.git"
+  },
+  "author": "Jean-4k",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Jean-4k/sequelize-sqlite-basic-test/issues"
+  },
+  "homepage": "https://github.com/Jean-4k/sequelize-sqlite-basic-test#readme",
+  "dependencies": {
+    "sequelize": "^6.4.0",
+    "sqlite3": "^5.0.1"
+  }
+}
